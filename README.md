@@ -2,8 +2,7 @@
 
 Dieses Repository enthält den Text, den GitHub auf [github.com/SEM-SGG](https://github.com/SEM-SGG) über der Liste der Repositories anzeigt.
 
-- **Öffentliche Fassung:** [`profile/README.md`](profile/README.md) in diesem Repository. Alle sehen sie.
-- **Fassung für Mitglieder:** `profile/README.md` im privaten Repository `.github-private`. Nur angemeldete Mitglieder der Organisation sehen sie; sie nennt zusätzlich die privaten Werkzeuge.
+- **Öffentliche Fassung:** [`profile/README.md`](profile/README.md) in diesem Repository.
 
 ## Text ändern
 
