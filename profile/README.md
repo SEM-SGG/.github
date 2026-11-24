@@ -8,7 +8,7 @@ Werkzeuge der Sektion Grundlagen Grenze (SGG) im Staatssekretariat für Migratio
 | --- | --- | --- |
 | ein Dokument vor dem Versand prüfen (Word, PDF, PowerPoint) oder Sprachfassungen vergleichen | [**Lectora**](https://github.com/SEM-SGG/lectora) | [Webseite öffnen](https://sem-sgg.github.io/lectora/) · [Datei herunterladen](https://github.com/SEM-SGG/lectora/releases/latest/download/Lectora.html) |
 | sehen, wie sich ein Erlass der Systematischen Rechtssammlung (SR) je Bestimmung geändert hat, zum Beispiel AIG, VZAE, VEV, AsylG oder EESV | [**SR-Navigator**](https://github.com/SEM-SGG/sr-navigator) | [Im Browser öffnen](https://sem-sgg.github.io/sr-navigator/app/) · [Projektseite mit Download](https://sem-sgg.github.io/sr-navigator/) · [Dokumentation](https://sem-sgg.github.io/sr-navigator/dokumentation.html) |
-| Änderungen am Schengener Grenzkodex (SGK) und an EES-, ETIAS-, VIS- und Interoperabilitäts-Verordnung nachverfolgen | [**SGK-Navigator**](https://github.com/SEM-SGG/sgk-navigator) | [Download-Seite](https://sem-sgg.github.io/sgk-navigator/) · [Datei herunterladen](https://github.com/SEM-SGG/sgk-navigator/releases/latest/download/SGK-Navigator.html) |
+| Änderungen am Schengener Grenzkodex (SGK) und an EES-, ETIAS-, VIS- und Interoperabilitäts-Verordnung nachverfolgen | [**SGK-Navigator**](https://github.com/SEM-SGG/sgk-navigator) | [Download-Seite](https://sem-sgg.github.io/sgk-navigator/) · [Datei herunterladen](https://github.com/SEM-SGG/sgk-navigator/releases/latest/download/SGK-Navigator.html) · [Dokumentation](https://sem-sgg.github.io/sgk-navigator/dokumentation.html) |
 
 Lectora und SR-Navigator gibt es in Deutsch, Französisch und Italienisch, den SGK-Navigator in Deutsch, Französisch und Englisch.
 
