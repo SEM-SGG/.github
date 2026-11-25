@@ -2,6 +2,21 @@
 
 Werkzeuge der Sektion Grundlagen Grenze (SGG) im Staatssekretariat für Migration (SEM). Sie laufen im Browser, ohne Installation und ohne GitHub-Konto.
 
+## Rückmeldung geben
+
+Die Werkzeuge sind in Erprobung. Fehler und Wünsche sind willkommen: Ein Klick in der Tabelle öffnet das passende Formular auf GitHub. Dafür brauchst du ein GitHub-Konto.
+
+| Werkzeug | Fehler melden | Wunsch oder Änderung vorschlagen | Weitere |
+| --- | --- | --- | --- |
+| Lectora | [Fehler](https://github.com/SEM-SGG/lectora/issues/new?template=fehler.yml) | [Wunsch oder Änderungsvorschlag](https://github.com/SEM-SGG/lectora/issues/new?template=wunsch.yml) | [Regel meldet Fehlalarm](https://github.com/SEM-SGG/lectora/issues/new?template=fehlalarm.yml) |
+| SR-Navigator | [Fehler melden](https://github.com/SEM-SGG/sr-navigator/issues/new?template=fehler.md) | [Wunsch oder Änderungsvorschlag](https://github.com/SEM-SGG/sr-navigator/issues/new?template=wunsch-oder-aenderungsvorschlag.md) | [Erlass oder Fassung fehlt](https://github.com/SEM-SGG/sr-navigator/issues/new?template=erlass-oder-fassung-fehlt.md) |
+| SGK-Navigator | [Fehler melden](https://github.com/SEM-SGG/sgk-navigator/issues/new?template=fehler.yml) | [Wunsch oder Änderungsvorschlag](https://github.com/SEM-SGG/sgk-navigator/issues/new?template=wunsch.yml) | [Fassung oder Rechtsakt fehlt](https://github.com/SEM-SGG/sgk-navigator/issues/new?template=fassung.yml) |
+
+- In Lectora, SR-Navigator und SGK-Navigator öffnet das Käfer-Symbol neben dem Namen in der Kopfzeile dieselben Formulare.
+- Ohne GitHub-Konto, oder wenn eine Meldung nicht auf GitHub gehört: Mail an sektion-grenze@sem.admin.ch.
+- Issues sind öffentlich: Trage dort keine klassifizierten Inhalte und keine Personendaten ein (siehe Datenregel unten).
+- [QR-Code dieser Seite](https://github.com/SEM-SGG/.github/blob/main/profile/rueckmeldung-qr.png) für Folien und Aushänge.
+
 ## Welches Werkzeug für welche Aufgabe
 
 | Ich will … | Werkzeug | Start |
@@ -29,11 +44,6 @@ Für die Werkzeuge heisst das:
 
 - **Lectora:** Die Webseite ist für unklassifizierte Dokumente gedacht. Klassifizierte Dokumente prüfst du mit der heruntergeladenen Datei `Lectora.html`.
 - **SR-Navigator und SGK-Navigator:** Die Rechtstexte sind öffentlich. Eigene Notizen, Sammlungen und Projektdateien bleiben in deinem Browser oder in Dateien, die du selbst speicherst.
-
-## Fragen und Rückmeldungen
-
-- **Ohne GitHub-Konto:** sektion-grenze@sem.admin.ch
-- **Mit GitHub-Konto:** ein Issue im Repository des Werkzeugs ([Lectora](https://github.com/SEM-SGG/lectora/issues/new/choose), [SR-Navigator](https://github.com/SEM-SGG/sr-navigator/issues/new/choose), [SGK-Navigator](https://github.com/SEM-SGG/sgk-navigator/issues/new/choose)). Issues sind öffentlich: Trage dort keine klassifizierten Inhalte und keine Personendaten ein.
 
 ## Für Pflegende
 
